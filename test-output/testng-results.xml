@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-15T18:14:55 IST" name="Default suite" finished-at="2025-06-15T18:17:57 IST" duration-ms="181780">
+    <groups>
+    </groups>
+    <test started-at="2025-06-15T18:14:55 IST" name="Default test" finished-at="2025-06-15T18:17:57 IST" duration-ms="181780">
+      <class name="tests.AllTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:14:55 IST" name="setup" finished-at="2025-06-15T18:15:03 IST" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCurrencyAndLanguageSelectors()[pri:0, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:15:03 IST" name="verifyCurrencyAndLanguageSelectors" finished-at="2025-06-15T18:15:25 IST" duration-ms="22318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCurrencyAndLanguageSelectors -->
+        <test-method signature="testSignUpNegativeScenarios()[pri:1, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:15:25 IST" name="testSignUpNegativeScenarios" finished-at="2025-06-15T18:16:10 IST" duration-ms="44711" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSignUpNegativeScenarios -->
+        <test-method signature="testLogin()[pri:2, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:16:10 IST" name="testLogin" finished-at="2025-06-15T18:16:36 IST" duration-ms="26137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="addcart()[pri:3, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:16:36 IST" name="addcart" finished-at="2025-06-15T18:16:54 IST" duration-ms="18184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcart -->
+        <test-method signature="update_Cart()[pri:4, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:16:54 IST" name="update_Cart" finished-at="2025-06-15T18:17:34 IST" duration-ms="39580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_Cart -->
+        <test-method signature="Payment_page()[pri:5, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:17:34 IST" name="Payment_page" finished-at="2025-06-15T18:17:54 IST" duration-ms="20405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payment_page -->
+        <test-method signature="logoutPage()[pri:6, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:17:54 IST" name="logoutPage" finished-at="2025-06-15T18:17:56 IST" duration-ms="1909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutPage -->
+        <test-method is-config="true" signature="teardawon()[pri:0, instance:tests.AllTests@2cd76f31]" started-at="2025-06-15T18:17:56 IST" name="teardawon" finished-at="2025-06-15T18:17:57 IST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardawon -->
+      </class> <!-- tests.AllTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
