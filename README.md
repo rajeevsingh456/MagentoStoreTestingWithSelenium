@@ -68,7 +68,7 @@ MagentoStoreTestingWithSelenium/
 
 ## 📄 Test Reports
 
-- **Manual Test Report**: https://drive.google.com/drive/folders/1CMsVYDiK6zRxSWq8uSeAdTrQK6Nil7hu
+- **Manual Test Report**: https://drive.google.com/file/d/1AJsN1YLDLjmV_uheglNNEoW5MqHcf3Mv/view?usp=sharing
 - **Project Video Walkthrough**: [https://drive.google.com/file/d/1NSy_76Nkg1hp10JRaPxjL2-qtFXBaiTj/view?usp=sharing]
 
 ---
